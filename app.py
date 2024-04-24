@@ -3,8 +3,8 @@ from PIL import Image, ImageFilter
 import io
 
 # Set up the title and introduction of the app
-st.title('IMAGE2PIXELART')
-st.subheader('🎨 Convert any PNG/JPG/JPEG images into pixel art with filters.')
+st.title('IMAGE TO PIXELS')
+st.subheader('Convert any PNG/JPG/JPEG images into pixel art with filters.')
 st.caption('Upload your image, apply filters, and then convert it into pixel art.')
 
 # File uploader to allow users to upload their image
