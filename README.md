@@ -1,3 +1,10 @@
+## About
+
+This application is created to demonstrate how images can be transformed into pixel art using Python and Streamlit. Filters can enhance the artistic effect before pixelation.
+
+## Live Demo
+
+You can access the live demo of this application [here](https://image-to-pixelart.streamlit.app/).
 
 ## Usage
 
@@ -16,13 +23,3 @@
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## About
-
-This application is created to demonstrate how images can be transformed into pixel art using Python and Streamlit. Filters can enhance the artistic effect before pixelation.
-
-## Author
-
-## Live Demo
-
-You can access the live demo of this application [here](https://image-to-pixelart.streamlit.app/).
